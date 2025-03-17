@@ -1,0 +1,30 @@
+/*____ IMPORT GOOGLE FONTS (ROBOTO AND POPPINS) ____*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Roboto:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*____ CUSTOMIZED STYLING ____*/
+:root {
+    /******* colors *******/
+    --bluish-state: #5e35b1;
+    --vivid-orange: #ff6f26;
+    --amber: #ffa726;
+    --dark-gray: #252525;
+    --light-gray: #eeeeee;
+    
+    /******* fonts *******/
+    --font-family-poppins: "Poppins", serif;
+    --font-family-roboto: "Roboto", serif;
+    --font-size-base: 14px;
+    --font-weight-base: 500;
+    --line-height-base: 16px;
+    --letter-spacing: 0.02em;
+}
+
+
+
+
